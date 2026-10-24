@@ -1,2 +1,3 @@
 # Budget-tool
-github.com/&lt;tanvikeskar639-alt>/[Agent CLI](agent.py) · [Budget tool](budget_tool.py)
+https://github.com/tanvikeskar639-alt/Budget-tool/blob/main/agent.py
+https://github.com/tanvikeskar639-alt/Budget-tool/blob/main/budget_tool.py
